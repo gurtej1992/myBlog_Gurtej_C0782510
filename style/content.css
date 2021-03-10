@@ -122,9 +122,14 @@ ul li {
     margin: 0 0 6px 0;
     padding: 0 0 4px 5px
 }
+
 table {
     border-collapse: collapse;
     width: 55%;
+}
+table#work{
+    border-collapse: collapse;
+    width: 100%;
 }
 
 th, td {
